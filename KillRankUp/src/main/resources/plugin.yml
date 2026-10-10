@@ -1,0 +1,5 @@
+name: KillRankUp
+version: 1.0
+main: com.mostafa.killrankup.KillRankUp
+api-version: '1.21'
+author: Mostafa
